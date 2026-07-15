@@ -1,0 +1,26 @@
+customer_id,first_name,last_name,email,city,state,country,segment,record_type,updated_at
+479c6d4c-dcf7-4a21-9080-a2933ea35d7a,Christina,Arias,michaelhill@example.com,Thomasfort,MD,US,Home Office,I,2026-07-15T16:47:30.708224+00:00
+5b506fcd-8ecb-42ec-b4d7-87b036cdf05f,Timothy,Smith,meganrussell@example.com,Williamston,MT,US,Consumer,I,2026-07-15T16:47:30.708224+00:00
+79cc1a92-73a2-4e2f-b699-a4a75fc6231b,Adam,Santiago,fmiller@example.org,Brownfort,WY,US,Consumer,I,2026-07-15T16:47:30.708224+00:00
+ef61f37d-450a-4c74-aabb-a10ca9860d4c,Lacey,Knight,tannerchristina@example.org,Estesport,AR,US,Home Office,I,2026-07-15T16:47:30.708224+00:00
+997a250d-0138-4dd8-9fb3-36c392dc1eab,Kevin,Turner,tracey66@example.com,Montoyamouth,DC,US,Home Office,I,2026-07-15T16:47:30.708224+00:00
+fdf97bd8-b0ab-4d37-89a3-a9216c1f5752,Richard,Hill,andersonalicia@example.net,New Richardbury,NY,US,Home Office,I,2026-07-15T16:47:30.708224+00:00
+d6e6dc9a-d4e0-472d-a4d7-5185b1e2d313,Todd,Tran,woodjaime@example.net,Millershire,CA,US,Home Office,I,2026-07-15T16:47:30.708224+00:00
+3a33365d-b5f2-4268-92d9-ee2272a94d4e,Tammy,Espinoza,iewing@example.org,Melissastad,ND,US,Consumer,I,2026-07-15T16:47:30.708224+00:00
+6e81bcbe-39a8-4e0b-aa7f-cc9fe4197b9e,Crystal,Owens,cherylpalmer@example.net,New Savannah,IA,US,Corporate,I,2026-07-15T16:47:30.708224+00:00
+94f81150-278a-457e-a42e-26490e06010a,William,Rhodes,johnsonanthony@example.net,South David,WA,US,Corporate,I,2026-07-15T16:47:30.708224+00:00
+792bc8b6-2792-4201-a6c5-ed7dbcb88c06,Matthew,Jones,erikalambert@example.org,Petersenshire,ID,US,Consumer,U,2026-07-15T16:47:30.708224+00:00
+0b532392-d604-4cf0-a0ca-a3e76d767b4d,William,Watkins,ilewis@example.net,Melissabury,VI,US,Corporate,U,2026-07-15T16:47:30.708224+00:00
+81aa7048-3f9f-4bb7-84ac-eae687592c84,Michelle,Kelly,jefferykeith@example.net,South Tylerborough,GU,US,Home Office,U,2026-07-15T16:47:30.708224+00:00
+f1f5b4de-31ed-4946-90fa-37eb99c5333a,Christopher,Harvey,charlesrobinson@example.com,Jacobside,DC,US,Consumer,U,2026-07-15T16:47:30.708224+00:00
+eefede9c-cd7e-4780-87b7-d7c1efc74716,Christine,Conway,todd84@example.net,Munozchester,MD,US,Consumer,U,2026-07-15T16:47:30.708224+00:00
+d6f209cb-c5bb-4139-9147-d4245fc93b07,David,Merritt,angelajones@example.net,Longmouth,WV,US,Home Office,U,2026-07-15T16:47:30.708224+00:00
+c0178867-094c-4681-8776-f3f122b1d2fc,Jackson,Walker,dphelps@example.com,Franklintown,MN,US,Corporate,U,2026-07-15T16:47:30.708224+00:00
+e51edc4a-77f7-4349-9a18-d4fac8133f61,Dustin,Johnson,crawfordalfred@example.com,Carlsonfurt,AR,US,Home Office,U,2026-07-15T16:47:30.708224+00:00
+bc523495-e46d-452d-b1e5-30037f425604,Steven,Mason,weavernicolas@example.com,North James,WY,US,Consumer,U,2026-07-15T16:47:30.708224+00:00
+3b87a5f3-8a94-4399-8226-ece67a912247,Lauren,Smith,smithsierra@example.org,Porterton,UT,US,Corporate,U,2026-07-15T16:47:30.708224+00:00
+d361490a-8ab7-416b-9116-970c16f63967,Anthony,Velez,michelle50@example.net,East Veronicaburgh,NJ,US,Home Office,U,2026-07-15T16:47:30.708224+00:00
+e29e407a-266b-4d73-bb9d-45bba2067fdc,Lisa,Perkins,lewisderek@example.com,Garzashire,NV,US,Corporate,U,2026-07-15T16:47:30.708224+00:00
+323cc0ee-9df0-4eef-8694-06182ef3bd7c,Michael,Lopez,munozshelly@example.net,Millerfurt,FM,US,Consumer,U,2026-07-15T16:47:30.708224+00:00
+f633f0ac-be45-456b-9da5-086bed7faf73,Erin,Perez,taylorthompson@example.org,West Christine,IA,US,Home Office,U,2026-07-15T16:47:30.708224+00:00
+520bc16a-747e-4f46-b622-410fb499d5ea,Roger,King,christinaclark@example.com,South Maurice,TN,US,Consumer,U,2026-07-15T16:47:30.708224+00:00

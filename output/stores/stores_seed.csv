@@ -1,0 +1,16 @@
+store_id,store_name,region,channel
+ST-001,Shawnview Retail Store,South,retail
+ST-002,Michaelborough Retail Store,East,retail
+ST-003,New Aprilhaven Online Store,West,retail
+ST-004,Port Kenneth Online Store,Central,retail
+ST-005,New Shawnberg Online Store,South,online
+ST-006,East Bryanberg Retail Store,South,retail
+ST-007,New Richardside Retail Store,East,retail
+ST-008,Robertmouth Online Store,East,online
+ST-009,Richardton Retail Store,East,retail
+ST-010,Port Christinefurt Retail Store,South,retail
+ST-011,Petersonburgh Online Store,East,online
+ST-012,North Alexis Online Store,West,retail
+ST-013,Amandaport Retail Store,South,retail
+ST-014,West Maryshire Online Store,West,retail
+ST-015,Chaseborough Online Store,West,online

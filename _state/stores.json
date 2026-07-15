@@ -1,0 +1,92 @@
+[
+  {
+    "store_id": "ST-001",
+    "store_name": "Shawnview Retail Store",
+    "region": "South",
+    "channel": "retail"
+  },
+  {
+    "store_id": "ST-002",
+    "store_name": "Michaelborough Retail Store",
+    "region": "East",
+    "channel": "retail"
+  },
+  {
+    "store_id": "ST-003",
+    "store_name": "New Aprilhaven Online Store",
+    "region": "West",
+    "channel": "retail"
+  },
+  {
+    "store_id": "ST-004",
+    "store_name": "Port Kenneth Online Store",
+    "region": "Central",
+    "channel": "retail"
+  },
+  {
+    "store_id": "ST-005",
+    "store_name": "New Shawnberg Online Store",
+    "region": "South",
+    "channel": "online"
+  },
+  {
+    "store_id": "ST-006",
+    "store_name": "East Bryanberg Retail Store",
+    "region": "South",
+    "channel": "retail"
+  },
+  {
+    "store_id": "ST-007",
+    "store_name": "New Richardside Retail Store",
+    "region": "East",
+    "channel": "retail"
+  },
+  {
+    "store_id": "ST-008",
+    "store_name": "Robertmouth Online Store",
+    "region": "East",
+    "channel": "online"
+  },
+  {
+    "store_id": "ST-009",
+    "store_name": "Richardton Retail Store",
+    "region": "East",
+    "channel": "retail"
+  },
+  {
+    "store_id": "ST-010",
+    "store_name": "Port Christinefurt Retail Store",
+    "region": "South",
+    "channel": "retail"
+  },
+  {
+    "store_id": "ST-011",
+    "store_name": "Petersonburgh Online Store",
+    "region": "East",
+    "channel": "online"
+  },
+  {
+    "store_id": "ST-012",
+    "store_name": "North Alexis Online Store",
+    "region": "West",
+    "channel": "retail"
+  },
+  {
+    "store_id": "ST-013",
+    "store_name": "Amandaport Retail Store",
+    "region": "South",
+    "channel": "retail"
+  },
+  {
+    "store_id": "ST-014",
+    "store_name": "West Maryshire Online Store",
+    "region": "West",
+    "channel": "retail"
+  },
+  {
+    "store_id": "ST-015",
+    "store_name": "Chaseborough Online Store",
+    "region": "West",
+    "channel": "online"
+  }
+]

@@ -1,0 +1,2002 @@
+[
+  {
+    "product_id": "PR-00001",
+    "product_name": "Enhanced empowering emulation",
+    "category": "Furniture",
+    "subcategory": "Bookcases",
+    "brand": "Padilla-Morrow",
+    "unit_cost": 147.8,
+    "unit_price": 358.64,
+    "updated_at": "2026-07-15T15:35:11.465389+00:00"
+  },
+  {
+    "product_id": "PR-00002",
+    "product_name": "Expanded 3rdgeneration approach",
+    "category": "Technology",
+    "subcategory": "Copiers",
+    "brand": "Peters and Sons",
+    "unit_cost": 353.34,
+    "unit_price": 684.36,
+    "updated_at": "2026-07-15T15:35:11.465541+00:00"
+  },
+  {
+    "product_id": "PR-00003",
+    "product_name": "Secured bandwidth-monitored encryption",
+    "category": "Furniture",
+    "subcategory": "Tables",
+    "brand": "Wright-Mcclure",
+    "unit_cost": 305.07,
+    "unit_price": 415.35,
+    "updated_at": "2026-07-15T15:35:11.465605+00:00"
+  },
+  {
+    "product_id": "PR-00004",
+    "product_name": "Versatile incremental throughput",
+    "category": "Furniture",
+    "subcategory": "Bookcases",
+    "brand": "Myers, Ponce and Smith",
+    "unit_cost": 235.33,
+    "unit_price": 457.1,
+    "updated_at": "2026-07-15T15:35:11.465694+00:00"
+  },
+  {
+    "product_id": "PR-00005",
+    "product_name": "Grass-roots mission-critical standardization",
+    "category": "Office Supplies",
+    "subcategory": "Binders",
+    "brand": "Chavez, Allen and Barnes",
+    "unit_cost": 101.06,
+    "unit_price": 180.46,
+    "updated_at": "2026-07-15T15:35:11.465787+00:00"
+  },
+  {
+    "product_id": "PR-00006",
+    "product_name": "Universal foreground firmware",
+    "category": "Office Supplies",
+    "subcategory": "Binders",
+    "brand": "West-Moore",
+    "unit_cost": 236.69,
+    "unit_price": 421.79,
+    "updated_at": "2026-07-15T15:35:11.465851+00:00"
+  },
+  {
+    "product_id": "PR-00007",
+    "product_name": "Progressive object-oriented definition",
+    "category": "Office Supplies",
+    "subcategory": "Storage",
+    "brand": "Adams PLC",
+    "unit_cost": 166.17,
+    "unit_price": 290.93,
+    "updated_at": "2026-07-15T15:35:11.465895+00:00"
+  },
+  {
+    "product_id": "PR-00008",
+    "product_name": "Integrated asynchronous Local Area Network",
+    "category": "Office Supplies",
+    "subcategory": "Binders",
+    "brand": "Hall-Bonilla",
+    "unit_cost": 233.76,
+    "unit_price": 371.18,
+    "updated_at": "2026-07-15T15:35:11.465968+00:00"
+  },
+  {
+    "product_id": "PR-00009",
+    "product_name": "Horizontal attitude-oriented secured line",
+    "category": "Furniture",
+    "subcategory": "Chairs",
+    "brand": "Holder-Williams",
+    "unit_cost": 273.73,
+    "unit_price": 628.49,
+    "updated_at": "2026-07-15T15:35:11.466035+00:00"
+  },
+  {
+    "product_id": "PR-00010",
+    "product_name": "Compatible well-modulated portal",
+    "category": "Furniture",
+    "subcategory": "Tables",
+    "brand": "Johnson LLC",
+    "unit_cost": 237.88,
+    "unit_price": 326.16,
+    "updated_at": "2026-07-15T15:35:11.466073+00:00"
+  },
+  {
+    "product_id": "PR-00011",
+    "product_name": "User-centric local flexibility",
+    "category": "Technology",
+    "subcategory": "Phones",
+    "brand": "Mcmillan Ltd",
+    "unit_cost": 230.42,
+    "unit_price": 404.05,
+    "updated_at": "2026-07-15T15:35:11.466110+00:00"
+  },
+  {
+    "product_id": "PR-00012",
+    "product_name": "Synergized 24hour application",
+    "category": "Furniture",
+    "subcategory": "Chairs",
+    "brand": "Dickerson-Callahan",
+    "unit_cost": 276.33,
+    "unit_price": 421.68,
+    "updated_at": "2026-07-15T15:35:11.466178+00:00"
+  },
+  {
+    "product_id": "PR-00013",
+    "product_name": "Re-engineered transitional secured line",
+    "category": "Office Supplies",
+    "subcategory": "Storage",
+    "brand": "Romero PLC",
+    "unit_cost": 281.18,
+    "unit_price": 501.63,
+    "updated_at": "2026-07-15T15:35:11.466216+00:00"
+  },
+  {
+    "product_id": "PR-00014",
+    "product_name": "Integrated contextually-based secured line",
+    "category": "Technology",
+    "subcategory": "Accessories",
+    "brand": "Wells, Grimes and Acevedo",
+    "unit_cost": 203.93,
+    "unit_price": 394.84,
+    "updated_at": "2026-07-15T15:35:11.466313+00:00"
+  },
+  {
+    "product_id": "PR-00015",
+    "product_name": "Pre-emptive global help-desk",
+    "category": "Technology",
+    "subcategory": "Phones",
+    "brand": "Shaw-Hunt",
+    "unit_cost": 74.14,
+    "unit_price": 115.5,
+    "updated_at": "2026-07-15T15:35:11.466379+00:00"
+  },
+  {
+    "product_id": "PR-00016",
+    "product_name": "Devolved didactic Internet solution",
+    "category": "Office Supplies",
+    "subcategory": "Paper",
+    "brand": "Dawson-Stone",
+    "unit_cost": 302.36,
+    "unit_price": 424.99,
+    "updated_at": "2026-07-15T15:35:11.466445+00:00"
+  },
+  {
+    "product_id": "PR-00017",
+    "product_name": "Cross-group 4thgeneration access",
+    "category": "Furniture",
+    "subcategory": "Bookcases",
+    "brand": "Wright-Stone",
+    "unit_cost": 229.76,
+    "unit_price": 477.95,
+    "updated_at": "2026-07-15T15:35:11.466511+00:00"
+  },
+  {
+    "product_id": "PR-00018",
+    "product_name": "Switchable bifurcated extranet",
+    "category": "Furniture",
+    "subcategory": "Bookcases",
+    "brand": "Rios PLC",
+    "unit_cost": 262.28,
+    "unit_price": 644.25,
+    "updated_at": "2026-07-15T15:35:11.466547+00:00"
+  },
+  {
+    "product_id": "PR-00019",
+    "product_name": "Reverse-engineered 24hour interface",
+    "category": "Technology",
+    "subcategory": "Phones",
+    "brand": "Rogers, Owens and Marshall",
+    "unit_cost": 86.49,
+    "unit_price": 179.08,
+    "updated_at": "2026-07-15T15:35:11.466643+00:00"
+  },
+  {
+    "product_id": "PR-00020",
+    "product_name": "Cross-group systemic projection",
+    "category": "Furniture",
+    "subcategory": "Tables",
+    "brand": "Holder, Roberts and Wells",
+    "unit_cost": 232.32,
+    "unit_price": 561.41,
+    "updated_at": "2026-07-15T15:35:11.466740+00:00"
+  },
+  {
+    "product_id": "PR-00021",
+    "product_name": "Vision-oriented hybrid interface",
+    "category": "Office Supplies",
+    "subcategory": "Paper",
+    "brand": "Sanders-Barnett",
+    "unit_cost": 216.78,
+    "unit_price": 397.22,
+    "updated_at": "2026-07-15T15:35:11.466806+00:00"
+  },
+  {
+    "product_id": "PR-00022",
+    "product_name": "Vision-oriented hybrid access",
+    "category": "Office Supplies",
+    "subcategory": "Binders",
+    "brand": "Welch Ltd",
+    "unit_cost": 370.3,
+    "unit_price": 676.4,
+    "updated_at": "2026-07-15T15:35:11.466844+00:00"
+  },
+  {
+    "product_id": "PR-00023",
+    "product_name": "Ergonomic asymmetric open system",
+    "category": "Furniture",
+    "subcategory": "Chairs",
+    "brand": "Hughes-Bell",
+    "unit_cost": 284.12,
+    "unit_price": 549.79,
+    "updated_at": "2026-07-15T15:35:11.466905+00:00"
+  },
+  {
+    "product_id": "PR-00024",
+    "product_name": "Virtual 4thgeneration architecture",
+    "category": "Technology",
+    "subcategory": "Phones",
+    "brand": "Wong-Maddox",
+    "unit_cost": 200.7,
+    "unit_price": 279.39,
+    "updated_at": "2026-07-15T15:35:11.466967+00:00"
+  },
+  {
+    "product_id": "PR-00025",
+    "product_name": "Seamless fresh-thinking conglomeration",
+    "category": "Technology",
+    "subcategory": "Accessories",
+    "brand": "Marshall, Mann and Wilson",
+    "unit_cost": 185.91,
+    "unit_price": 226.56,
+    "updated_at": "2026-07-15T15:35:11.467068+00:00"
+  },
+  {
+    "product_id": "PR-00026",
+    "product_name": "Centralized intermediate forecast",
+    "category": "Technology",
+    "subcategory": "Copiers",
+    "brand": "Ryan, Thomas and Bowen",
+    "unit_cost": 191.06,
+    "unit_price": 415.75,
+    "updated_at": "2026-07-15T15:35:11.467153+00:00"
+  },
+  {
+    "product_id": "PR-00027",
+    "product_name": "Inverse exuding implementation",
+    "category": "Furniture",
+    "subcategory": "Tables",
+    "brand": "Murphy and Sons",
+    "unit_cost": 179.69,
+    "unit_price": 249.23,
+    "updated_at": "2026-07-15T15:35:11.467187+00:00"
+  },
+  {
+    "product_id": "PR-00028",
+    "product_name": "Profit-focused local approach",
+    "category": "Office Supplies",
+    "subcategory": "Binders",
+    "brand": "Strickland PLC",
+    "unit_cost": 75.63,
+    "unit_price": 129.97,
+    "updated_at": "2026-07-15T15:35:11.467229+00:00"
+  },
+  {
+    "product_id": "PR-00029",
+    "product_name": "Self-enabling needs-based knowledgebase",
+    "category": "Office Supplies",
+    "subcategory": "Paper",
+    "brand": "Warner, Gamble and Cox",
+    "unit_cost": 54.13,
+    "unit_price": 78.31,
+    "updated_at": "2026-07-15T15:35:11.467326+00:00"
+  },
+  {
+    "product_id": "PR-00030",
+    "product_name": "Fundamental impactful focus group",
+    "category": "Office Supplies",
+    "subcategory": "Paper",
+    "brand": "Flores PLC",
+    "unit_cost": 45.02,
+    "unit_price": 55.83,
+    "updated_at": "2026-07-15T15:35:11.467363+00:00"
+  },
+  {
+    "product_id": "PR-00031",
+    "product_name": "Realigned secondary time-frame",
+    "category": "Office Supplies",
+    "subcategory": "Paper",
+    "brand": "Adkins, Vazquez and Todd",
+    "unit_cost": 172.35,
+    "unit_price": 256.38,
+    "updated_at": "2026-07-15T15:35:11.467459+00:00"
+  },
+  {
+    "product_id": "PR-00032",
+    "product_name": "Re-contextualized regional function",
+    "category": "Technology",
+    "subcategory": "Accessories",
+    "brand": "Bates Inc",
+    "unit_cost": 256.35,
+    "unit_price": 562.61,
+    "updated_at": "2026-07-15T15:35:11.467492+00:00"
+  },
+  {
+    "product_id": "PR-00033",
+    "product_name": "Realigned well-modulated flexibility",
+    "category": "Office Supplies",
+    "subcategory": "Binders",
+    "brand": "Pruitt-Nash",
+    "unit_cost": 81.81,
+    "unit_price": 178.02,
+    "updated_at": "2026-07-15T15:35:11.467550+00:00"
+  },
+  {
+    "product_id": "PR-00034",
+    "product_name": "Enterprise-wide directional process improvement",
+    "category": "Office Supplies",
+    "subcategory": "Binders",
+    "brand": "Coleman, Benson and Trujillo",
+    "unit_cost": 285.82,
+    "unit_price": 450.37,
+    "updated_at": "2026-07-15T15:35:11.467637+00:00"
+  },
+  {
+    "product_id": "PR-00035",
+    "product_name": "Future-proofed object-oriented migration",
+    "category": "Technology",
+    "subcategory": "Accessories",
+    "brand": "Castro, Walton and Sanchez",
+    "unit_cost": 81.23,
+    "unit_price": 167.26,
+    "updated_at": "2026-07-15T15:35:11.467726+00:00"
+  },
+  {
+    "product_id": "PR-00036",
+    "product_name": "Customizable encompassing definition",
+    "category": "Furniture",
+    "subcategory": "Bookcases",
+    "brand": "Henry, Smith and Taylor",
+    "unit_cost": 182.91,
+    "unit_price": 385.53,
+    "updated_at": "2026-07-15T15:35:11.467819+00:00"
+  },
+  {
+    "product_id": "PR-00037",
+    "product_name": "Diverse next generation initiative",
+    "category": "Furniture",
+    "subcategory": "Bookcases",
+    "brand": "Salazar-Malone",
+    "unit_cost": 36.91,
+    "unit_price": 59.79,
+    "updated_at": "2026-07-15T15:35:11.467884+00:00"
+  },
+  {
+    "product_id": "PR-00038",
+    "product_name": "Self-enabling motivating Graphical User Interface",
+    "category": "Furniture",
+    "subcategory": "Tables",
+    "brand": "Thomas Inc",
+    "unit_cost": 175.79,
+    "unit_price": 369.43,
+    "updated_at": "2026-07-15T15:35:11.467918+00:00"
+  },
+  {
+    "product_id": "PR-00039",
+    "product_name": "Operative system-worthy infrastructure",
+    "category": "Furniture",
+    "subcategory": "Bookcases",
+    "brand": "Hickman Ltd",
+    "unit_cost": 262.58,
+    "unit_price": 479.89,
+    "updated_at": "2026-07-15T15:35:11.467950+00:00"
+  },
+  {
+    "product_id": "PR-00040",
+    "product_name": "Profit-focused multi-state utilization",
+    "category": "Technology",
+    "subcategory": "Phones",
+    "brand": "Hamilton PLC",
+    "unit_cost": 257.02,
+    "unit_price": 393.22,
+    "updated_at": "2026-07-15T15:35:11.467983+00:00"
+  },
+  {
+    "product_id": "PR-00041",
+    "product_name": "Open-architected disintermediate frame",
+    "category": "Technology",
+    "subcategory": "Copiers",
+    "brand": "Barber-Nelson",
+    "unit_cost": 79.32,
+    "unit_price": 109.21,
+    "updated_at": "2026-07-15T15:35:11.468047+00:00"
+  },
+  {
+    "product_id": "PR-00042",
+    "product_name": "Self-enabling encompassing ability",
+    "category": "Technology",
+    "subcategory": "Phones",
+    "brand": "Aguilar-Yates",
+    "unit_cost": 340.28,
+    "unit_price": 509.43,
+    "updated_at": "2026-07-15T15:35:11.468112+00:00"
+  },
+  {
+    "product_id": "PR-00043",
+    "product_name": "Innovative web-enabled challenge",
+    "category": "Furniture",
+    "subcategory": "Chairs",
+    "brand": "Anderson LLC",
+    "unit_cost": 216.23,
+    "unit_price": 524.43,
+    "updated_at": "2026-07-15T15:35:11.468148+00:00"
+  },
+  {
+    "product_id": "PR-00044",
+    "product_name": "Re-engineered responsive info-mediaries",
+    "category": "Furniture",
+    "subcategory": "Bookcases",
+    "brand": "Cortez, Lynch and Mcbride",
+    "unit_cost": 166.48,
+    "unit_price": 394.28,
+    "updated_at": "2026-07-15T15:35:11.468241+00:00"
+  },
+  {
+    "product_id": "PR-00045",
+    "product_name": "Configurable uniform middleware",
+    "category": "Furniture",
+    "subcategory": "Bookcases",
+    "brand": "Moore, Sanders and Martin",
+    "unit_cost": 292.69,
+    "unit_price": 453.16,
+    "updated_at": "2026-07-15T15:35:11.468335+00:00"
+  },
+  {
+    "product_id": "PR-00046",
+    "product_name": "Profound intermediate benchmark",
+    "category": "Furniture",
+    "subcategory": "Chairs",
+    "brand": "Bailey LLC",
+    "unit_cost": 308.06,
+    "unit_price": 410.57,
+    "updated_at": "2026-07-15T15:35:11.468371+00:00"
+  },
+  {
+    "product_id": "PR-00047",
+    "product_name": "Assimilated cohesive focus group",
+    "category": "Office Supplies",
+    "subcategory": "Binders",
+    "brand": "Chapman, Trevino and Walker",
+    "unit_cost": 192.25,
+    "unit_price": 299.36,
+    "updated_at": "2026-07-15T15:35:11.468458+00:00"
+  },
+  {
+    "product_id": "PR-00048",
+    "product_name": "Pre-emptive needs-based extranet",
+    "category": "Office Supplies",
+    "subcategory": "Paper",
+    "brand": "Byrd-Dunlap",
+    "unit_cost": 53.37,
+    "unit_price": 94.38,
+    "updated_at": "2026-07-15T15:35:11.468521+00:00"
+  },
+  {
+    "product_id": "PR-00049",
+    "product_name": "Compatible 4thgeneration superstructure",
+    "category": "Technology",
+    "subcategory": "Accessories",
+    "brand": "Price, Downs and Manning",
+    "unit_cost": 266.2,
+    "unit_price": 472.84,
+    "updated_at": "2026-07-15T15:35:11.468615+00:00"
+  },
+  {
+    "product_id": "PR-00050",
+    "product_name": "Ergonomic non-volatile ability",
+    "category": "Technology",
+    "subcategory": "Copiers",
+    "brand": "Wood LLC",
+    "unit_cost": 97.8,
+    "unit_price": 144.82,
+    "updated_at": "2026-07-15T15:35:11.468650+00:00"
+  },
+  {
+    "product_id": "PR-00051",
+    "product_name": "Reduced asynchronous open system",
+    "category": "Office Supplies",
+    "subcategory": "Binders",
+    "brand": "Andrade and Sons",
+    "unit_cost": 329.04,
+    "unit_price": 585.34,
+    "updated_at": "2026-07-15T15:35:11.468686+00:00"
+  },
+  {
+    "product_id": "PR-00052",
+    "product_name": "Decentralized object-oriented pricing structure",
+    "category": "Office Supplies",
+    "subcategory": "Binders",
+    "brand": "Miller, Cooper and Martin",
+    "unit_cost": 333.15,
+    "unit_price": 618.3,
+    "updated_at": "2026-07-15T15:35:11.468779+00:00"
+  },
+  {
+    "product_id": "PR-00053",
+    "product_name": "Phased holistic software",
+    "category": "Furniture",
+    "subcategory": "Bookcases",
+    "brand": "Cook, Holland and Reed",
+    "unit_cost": 278.43,
+    "unit_price": 458.43,
+    "updated_at": "2026-07-15T15:35:11.468873+00:00"
+  },
+  {
+    "product_id": "PR-00054",
+    "product_name": "Customizable reciprocal knowledgebase",
+    "category": "Office Supplies",
+    "subcategory": "Binders",
+    "brand": "Martinez, Maldonado and Wright",
+    "unit_cost": 84.47,
+    "unit_price": 162.03,
+    "updated_at": "2026-07-15T15:35:11.468961+00:00"
+  },
+  {
+    "product_id": "PR-00055",
+    "product_name": "Business-focused well-modulated protocol",
+    "category": "Office Supplies",
+    "subcategory": "Binders",
+    "brand": "Gray-Becker",
+    "unit_cost": 373.04,
+    "unit_price": 576.26,
+    "updated_at": "2026-07-15T15:35:11.469024+00:00"
+  },
+  {
+    "product_id": "PR-00056",
+    "product_name": "Optional client-server portal",
+    "category": "Office Supplies",
+    "subcategory": "Paper",
+    "brand": "Lewis-Williams",
+    "unit_cost": 105.68,
+    "unit_price": 213.34,
+    "updated_at": "2026-07-15T15:35:11.469089+00:00"
+  },
+  {
+    "product_id": "PR-00057",
+    "product_name": "Programmable fault-tolerant attitude",
+    "category": "Office Supplies",
+    "subcategory": "Storage",
+    "brand": "Macdonald Ltd",
+    "unit_cost": 94.38,
+    "unit_price": 121.3,
+    "updated_at": "2026-07-15T15:35:11.469125+00:00"
+  },
+  {
+    "product_id": "PR-00058",
+    "product_name": "Total asynchronous info-mediaries",
+    "category": "Technology",
+    "subcategory": "Accessories",
+    "brand": "Lawrence, Meza and Young",
+    "unit_cost": 275.63,
+    "unit_price": 512.71,
+    "updated_at": "2026-07-15T15:35:11.469218+00:00"
+  },
+  {
+    "product_id": "PR-00059",
+    "product_name": "Distributed directional archive",
+    "category": "Office Supplies",
+    "subcategory": "Paper",
+    "brand": "Brown Ltd",
+    "unit_cost": 364.15,
+    "unit_price": 547.04,
+    "updated_at": "2026-07-15T15:35:11.469254+00:00"
+  },
+  {
+    "product_id": "PR-00060",
+    "product_name": "Up-sized radical knowledgebase",
+    "category": "Technology",
+    "subcategory": "Accessories",
+    "brand": "Allen-Hernandez",
+    "unit_cost": 67.89,
+    "unit_price": 136.37,
+    "updated_at": "2026-07-15T15:35:11.469318+00:00"
+  },
+  {
+    "product_id": "PR-00061",
+    "product_name": "Multi-tiered 24/7 paradigm",
+    "category": "Furniture",
+    "subcategory": "Chairs",
+    "brand": "Williamson-English",
+    "unit_cost": 71.88,
+    "unit_price": 107.58,
+    "updated_at": "2026-07-15T15:35:11.469382+00:00"
+  },
+  {
+    "product_id": "PR-00062",
+    "product_name": "Optimized context-sensitive framework",
+    "category": "Furniture",
+    "subcategory": "Chairs",
+    "brand": "Gay, Thomas and Parker",
+    "unit_cost": 314.6,
+    "unit_price": 420.22,
+    "updated_at": "2026-07-15T15:35:11.469472+00:00"
+  },
+  {
+    "product_id": "PR-00063",
+    "product_name": "Triple-buffered bi-directional initiative",
+    "category": "Office Supplies",
+    "subcategory": "Paper",
+    "brand": "Mendez-Espinoza",
+    "unit_cost": 244.13,
+    "unit_price": 308.23,
+    "updated_at": "2026-07-15T15:35:11.469536+00:00"
+  },
+  {
+    "product_id": "PR-00064",
+    "product_name": "Organized bi-directional open system",
+    "category": "Technology",
+    "subcategory": "Copiers",
+    "brand": "Keller-Ali",
+    "unit_cost": 51.41,
+    "unit_price": 68.45,
+    "updated_at": "2026-07-15T15:35:11.469604+00:00"
+  },
+  {
+    "product_id": "PR-00065",
+    "product_name": "Customizable responsive product",
+    "category": "Office Supplies",
+    "subcategory": "Paper",
+    "brand": "Roberts Group",
+    "unit_cost": 174.36,
+    "unit_price": 384.52,
+    "updated_at": "2026-07-15T15:35:11.469641+00:00"
+  },
+  {
+    "product_id": "PR-00066",
+    "product_name": "Right-sized background info-mediaries",
+    "category": "Technology",
+    "subcategory": "Copiers",
+    "brand": "Myers LLC",
+    "unit_cost": 99.79,
+    "unit_price": 126.73,
+    "updated_at": "2026-07-15T15:35:11.469678+00:00"
+  },
+  {
+    "product_id": "PR-00067",
+    "product_name": "Exclusive fault-tolerant portal",
+    "category": "Office Supplies",
+    "subcategory": "Paper",
+    "brand": "Jones-Wagner",
+    "unit_cost": 394.5,
+    "unit_price": 531.52,
+    "updated_at": "2026-07-15T15:35:11.469747+00:00"
+  },
+  {
+    "product_id": "PR-00068",
+    "product_name": "Implemented reciprocal neural-net",
+    "category": "Technology",
+    "subcategory": "Accessories",
+    "brand": "Peterson Group",
+    "unit_cost": 368.91,
+    "unit_price": 497.04,
+    "updated_at": "2026-07-15T15:35:11.469784+00:00"
+  },
+  {
+    "product_id": "PR-00069",
+    "product_name": "Seamless 24/7 ability",
+    "category": "Furniture",
+    "subcategory": "Tables",
+    "brand": "Morgan, Gomez and Bailey",
+    "unit_cost": 250.89,
+    "unit_price": 469.28,
+    "updated_at": "2026-07-15T15:35:11.469878+00:00"
+  },
+  {
+    "product_id": "PR-00070",
+    "product_name": "Organized contextually-based artificial intelligence",
+    "category": "Furniture",
+    "subcategory": "Bookcases",
+    "brand": "Powell-Myers",
+    "unit_cost": 77.25,
+    "unit_price": 160.83,
+    "updated_at": "2026-07-15T15:35:11.469939+00:00"
+  },
+  {
+    "product_id": "PR-00071",
+    "product_name": "Pre-emptive tangible encryption",
+    "category": "Office Supplies",
+    "subcategory": "Paper",
+    "brand": "Clark PLC",
+    "unit_cost": 360.21,
+    "unit_price": 625.0,
+    "updated_at": "2026-07-15T15:35:11.469973+00:00"
+  },
+  {
+    "product_id": "PR-00072",
+    "product_name": "Face-to-face heuristic project",
+    "category": "Furniture",
+    "subcategory": "Bookcases",
+    "brand": "Bennett-Rios",
+    "unit_cost": 161.55,
+    "unit_price": 323.9,
+    "updated_at": "2026-07-15T15:35:11.470038+00:00"
+  },
+  {
+    "product_id": "PR-00073",
+    "product_name": "Function-based needs-based hierarchy",
+    "category": "Furniture",
+    "subcategory": "Tables",
+    "brand": "Mccall-Donaldson",
+    "unit_cost": 379.08,
+    "unit_price": 655.75,
+    "updated_at": "2026-07-15T15:35:11.470103+00:00"
+  },
+  {
+    "product_id": "PR-00074",
+    "product_name": "Persevering system-worthy software",
+    "category": "Office Supplies",
+    "subcategory": "Storage",
+    "brand": "Lopez, Jacobs and Ford",
+    "unit_cost": 28.42,
+    "unit_price": 47.34,
+    "updated_at": "2026-07-15T15:35:11.470196+00:00"
+  },
+  {
+    "product_id": "PR-00075",
+    "product_name": "Face-to-face incremental conglomeration",
+    "category": "Office Supplies",
+    "subcategory": "Binders",
+    "brand": "Allen, Jenkins and Fritz",
+    "unit_cost": 374.8,
+    "unit_price": 754.48,
+    "updated_at": "2026-07-15T15:35:11.470289+00:00"
+  },
+  {
+    "product_id": "PR-00076",
+    "product_name": "Visionary analyzing alliance",
+    "category": "Furniture",
+    "subcategory": "Chairs",
+    "brand": "Howell-Alvarez",
+    "unit_cost": 373.7,
+    "unit_price": 714.11,
+    "updated_at": "2026-07-15T15:35:11.470354+00:00"
+  },
+  {
+    "product_id": "PR-00077",
+    "product_name": "Polarized bandwidth-monitored access",
+    "category": "Technology",
+    "subcategory": "Phones",
+    "brand": "Ortega PLC",
+    "unit_cost": 366.18,
+    "unit_price": 810.08,
+    "updated_at": "2026-07-15T15:35:11.470390+00:00"
+  },
+  {
+    "product_id": "PR-00078",
+    "product_name": "Self-enabling web-enabled neural-net",
+    "category": "Furniture",
+    "subcategory": "Bookcases",
+    "brand": "Parks PLC",
+    "unit_cost": 147.32,
+    "unit_price": 309.67,
+    "updated_at": "2026-07-15T15:35:11.470423+00:00"
+  },
+  {
+    "product_id": "PR-00079",
+    "product_name": "Implemented demand-driven portal",
+    "category": "Office Supplies",
+    "subcategory": "Storage",
+    "brand": "Dunlap, Reyes and Lane",
+    "unit_cost": 192.26,
+    "unit_price": 359.06,
+    "updated_at": "2026-07-15T15:35:11.470515+00:00"
+  },
+  {
+    "product_id": "PR-00080",
+    "product_name": "User-centric context-sensitive policy",
+    "category": "Furniture",
+    "subcategory": "Bookcases",
+    "brand": "Cameron-Johnson",
+    "unit_cost": 321.27,
+    "unit_price": 523.64,
+    "updated_at": "2026-07-15T15:35:11.470579+00:00"
+  },
+  {
+    "product_id": "PR-00081",
+    "product_name": "Devolved clear-thinking moratorium",
+    "category": "Office Supplies",
+    "subcategory": "Paper",
+    "brand": "Phillips-Murphy",
+    "unit_cost": 158.15,
+    "unit_price": 238.59,
+    "updated_at": "2026-07-15T15:35:11.470643+00:00"
+  },
+  {
+    "product_id": "PR-00082",
+    "product_name": "Team-oriented empowering protocol",
+    "category": "Technology",
+    "subcategory": "Accessories",
+    "brand": "Barton Ltd",
+    "unit_cost": 283.78,
+    "unit_price": 701.69,
+    "updated_at": "2026-07-15T15:35:11.470678+00:00"
+  },
+  {
+    "product_id": "PR-00083",
+    "product_name": "Function-based actuating benchmark",
+    "category": "Technology",
+    "subcategory": "Accessories",
+    "brand": "Smith, Hunter and Hodges",
+    "unit_cost": 59.27,
+    "unit_price": 118.27,
+    "updated_at": "2026-07-15T15:35:11.470771+00:00"
+  },
+  {
+    "product_id": "PR-00084",
+    "product_name": "Face-to-face impactful website",
+    "category": "Office Supplies",
+    "subcategory": "Paper",
+    "brand": "Carson Ltd",
+    "unit_cost": 66.57,
+    "unit_price": 84.48,
+    "updated_at": "2026-07-15T15:35:11.470807+00:00"
+  },
+  {
+    "product_id": "PR-00085",
+    "product_name": "Universal background software",
+    "category": "Furniture",
+    "subcategory": "Chairs",
+    "brand": "Bradley, Maynard and Hernandez",
+    "unit_cost": 336.0,
+    "unit_price": 771.25,
+    "updated_at": "2026-07-15T15:35:11.470900+00:00"
+  },
+  {
+    "product_id": "PR-00086",
+    "product_name": "Function-based eco-centric focus group",
+    "category": "Technology",
+    "subcategory": "Accessories",
+    "brand": "Horton, Boyle and Wright",
+    "unit_cost": 80.48,
+    "unit_price": 160.07,
+    "updated_at": "2026-07-15T15:35:11.470990+00:00"
+  },
+  {
+    "product_id": "PR-00087",
+    "product_name": "Front-line disintermediate benchmark",
+    "category": "Furniture",
+    "subcategory": "Chairs",
+    "brand": "Stanton-Smith",
+    "unit_cost": 167.31,
+    "unit_price": 298.0,
+    "updated_at": "2026-07-15T15:35:11.471054+00:00"
+  },
+  {
+    "product_id": "PR-00088",
+    "product_name": "Cross-group multi-tasking projection",
+    "category": "Office Supplies",
+    "subcategory": "Paper",
+    "brand": "Diaz, Wiley and Miles",
+    "unit_cost": 140.24,
+    "unit_price": 296.45,
+    "updated_at": "2026-07-15T15:35:11.471147+00:00"
+  },
+  {
+    "product_id": "PR-00089",
+    "product_name": "Switchable well-modulated algorithm",
+    "category": "Office Supplies",
+    "subcategory": "Storage",
+    "brand": "Vargas PLC",
+    "unit_cost": 70.37,
+    "unit_price": 173.52,
+    "updated_at": "2026-07-15T15:35:11.471183+00:00"
+  },
+  {
+    "product_id": "PR-00090",
+    "product_name": "Pre-emptive interactive Internet solution",
+    "category": "Office Supplies",
+    "subcategory": "Storage",
+    "brand": "Wall Group",
+    "unit_cost": 177.73,
+    "unit_price": 398.94,
+    "updated_at": "2026-07-15T15:35:11.471220+00:00"
+  },
+  {
+    "product_id": "PR-00091",
+    "product_name": "Customer-focused zero tolerance infrastructure",
+    "category": "Furniture",
+    "subcategory": "Tables",
+    "brand": "Carter Inc",
+    "unit_cost": 272.25,
+    "unit_price": 531.24,
+    "updated_at": "2026-07-15T15:35:11.471255+00:00"
+  },
+  {
+    "product_id": "PR-00092",
+    "product_name": "Expanded web-enabled toolset",
+    "category": "Technology",
+    "subcategory": "Accessories",
+    "brand": "Potts and Sons",
+    "unit_cost": 324.8,
+    "unit_price": 583.57,
+    "updated_at": "2026-07-15T15:35:11.471291+00:00"
+  },
+  {
+    "product_id": "PR-00093",
+    "product_name": "Assimilated local policy",
+    "category": "Technology",
+    "subcategory": "Copiers",
+    "brand": "Butler Group",
+    "unit_cost": 76.07,
+    "unit_price": 142.61,
+    "updated_at": "2026-07-15T15:35:11.471327+00:00"
+  },
+  {
+    "product_id": "PR-00094",
+    "product_name": "Digitized intangible alliance",
+    "category": "Technology",
+    "subcategory": "Copiers",
+    "brand": "Garza Inc",
+    "unit_cost": 126.28,
+    "unit_price": 246.1,
+    "updated_at": "2026-07-15T15:35:11.471365+00:00"
+  },
+  {
+    "product_id": "PR-00095",
+    "product_name": "Diverse scalable contingency",
+    "category": "Furniture",
+    "subcategory": "Chairs",
+    "brand": "Cross, Travis and Harmon",
+    "unit_cost": 183.28,
+    "unit_price": 356.6,
+    "updated_at": "2026-07-15T15:35:11.471454+00:00"
+  },
+  {
+    "product_id": "PR-00096",
+    "product_name": "Innovative fault-tolerant encryption",
+    "category": "Technology",
+    "subcategory": "Phones",
+    "brand": "Benton Group",
+    "unit_cost": 166.0,
+    "unit_price": 357.54,
+    "updated_at": "2026-07-15T15:35:11.471490+00:00"
+  },
+  {
+    "product_id": "PR-00097",
+    "product_name": "Multi-channeled systematic application",
+    "category": "Technology",
+    "subcategory": "Accessories",
+    "brand": "Castillo, Cook and Hill",
+    "unit_cost": 330.42,
+    "unit_price": 511.54,
+    "updated_at": "2026-07-15T15:35:11.471583+00:00"
+  },
+  {
+    "product_id": "PR-00098",
+    "product_name": "Persevering bottom-line attitude",
+    "category": "Technology",
+    "subcategory": "Accessories",
+    "brand": "Roberson-Williamson",
+    "unit_cost": 80.73,
+    "unit_price": 199.96,
+    "updated_at": "2026-07-15T15:35:11.471647+00:00"
+  },
+  {
+    "product_id": "PR-00099",
+    "product_name": "Synergized next generation customer loyalty",
+    "category": "Furniture",
+    "subcategory": "Tables",
+    "brand": "Petersen and Sons",
+    "unit_cost": 142.43,
+    "unit_price": 171.41,
+    "updated_at": "2026-07-15T15:35:11.471683+00:00"
+  },
+  {
+    "product_id": "PR-00100",
+    "product_name": "Phased exuding implementation",
+    "category": "Technology",
+    "subcategory": "Accessories",
+    "brand": "Fowler, Miller and Mendez",
+    "unit_cost": 160.16,
+    "unit_price": 286.59,
+    "updated_at": "2026-07-15T15:35:11.471776+00:00"
+  },
+  {
+    "product_id": "PR-00101",
+    "product_name": "Fully-configurable real-time superstructure",
+    "category": "Office Supplies",
+    "subcategory": "Storage",
+    "brand": "Sellers-Hansen",
+    "unit_cost": 52.44,
+    "unit_price": 126.81,
+    "updated_at": "2026-07-15T15:35:11.471839+00:00"
+  },
+  {
+    "product_id": "PR-00102",
+    "product_name": "Ergonomic methodical customer loyalty",
+    "category": "Office Supplies",
+    "subcategory": "Storage",
+    "brand": "Pena-Smith",
+    "unit_cost": 51.43,
+    "unit_price": 106.39,
+    "updated_at": "2026-07-15T15:35:11.471903+00:00"
+  },
+  {
+    "product_id": "PR-00103",
+    "product_name": "Polarized exuding array",
+    "category": "Technology",
+    "subcategory": "Phones",
+    "brand": "Haley-Ramirez",
+    "unit_cost": 350.29,
+    "unit_price": 494.68,
+    "updated_at": "2026-07-15T15:35:11.471967+00:00"
+  },
+  {
+    "product_id": "PR-00104",
+    "product_name": "User-centric zero administration website",
+    "category": "Furniture",
+    "subcategory": "Bookcases",
+    "brand": "Collins-Zimmerman",
+    "unit_cost": 346.03,
+    "unit_price": 657.01,
+    "updated_at": "2026-07-15T15:35:11.472031+00:00"
+  },
+  {
+    "product_id": "PR-00105",
+    "product_name": "Inverse contextually-based moratorium",
+    "category": "Furniture",
+    "subcategory": "Tables",
+    "brand": "Petersen, Smith and Mcguire",
+    "unit_cost": 298.6,
+    "unit_price": 429.11,
+    "updated_at": "2026-07-15T15:35:11.472124+00:00"
+  },
+  {
+    "product_id": "PR-00106",
+    "product_name": "De-engineered tangible hierarchy",
+    "category": "Technology",
+    "subcategory": "Phones",
+    "brand": "Morris-Cooper",
+    "unit_cost": 270.82,
+    "unit_price": 445.45,
+    "updated_at": "2026-07-15T15:35:11.472188+00:00"
+  },
+  {
+    "product_id": "PR-00107",
+    "product_name": "Proactive bottom-line emulation",
+    "category": "Office Supplies",
+    "subcategory": "Paper",
+    "brand": "Bird Ltd",
+    "unit_cost": 48.16,
+    "unit_price": 89.06,
+    "updated_at": "2026-07-15T15:35:11.472224+00:00"
+  },
+  {
+    "product_id": "PR-00108",
+    "product_name": "Secured encompassing monitoring",
+    "category": "Technology",
+    "subcategory": "Phones",
+    "brand": "Patton, Mendoza and Martin",
+    "unit_cost": 321.33,
+    "unit_price": 774.13,
+    "updated_at": "2026-07-15T15:35:11.472321+00:00"
+  },
+  {
+    "product_id": "PR-00109",
+    "product_name": "Phased intangible artificial intelligence",
+    "category": "Furniture",
+    "subcategory": "Tables",
+    "brand": "Griffin Inc",
+    "unit_cost": 77.93,
+    "unit_price": 179.62,
+    "updated_at": "2026-07-15T15:35:11.472362+00:00"
+  },
+  {
+    "product_id": "PR-00110",
+    "product_name": "Customizable composite knowledgebase",
+    "category": "Furniture",
+    "subcategory": "Chairs",
+    "brand": "Barnes-Skinner",
+    "unit_cost": 320.2,
+    "unit_price": 712.42,
+    "updated_at": "2026-07-15T15:35:11.472424+00:00"
+  },
+  {
+    "product_id": "PR-00111",
+    "product_name": "Secured human-resource installation",
+    "category": "Technology",
+    "subcategory": "Accessories",
+    "brand": "Klein PLC",
+    "unit_cost": 308.93,
+    "unit_price": 518.58,
+    "updated_at": "2026-07-15T15:35:11.472457+00:00"
+  },
+  {
+    "product_id": "PR-00112",
+    "product_name": "Reactive explicit encryption",
+    "category": "Technology",
+    "subcategory": "Phones",
+    "brand": "Hernandez Inc",
+    "unit_cost": 48.89,
+    "unit_price": 108.4,
+    "updated_at": "2026-07-15T15:35:11.472493+00:00"
+  },
+  {
+    "product_id": "PR-00113",
+    "product_name": "Integrated zero-defect process improvement",
+    "category": "Furniture",
+    "subcategory": "Tables",
+    "brand": "Perez-Christian",
+    "unit_cost": 152.65,
+    "unit_price": 247.54,
+    "updated_at": "2026-07-15T15:35:11.472559+00:00"
+  },
+  {
+    "product_id": "PR-00114",
+    "product_name": "Enhanced solution-oriented installation",
+    "category": "Technology",
+    "subcategory": "Copiers",
+    "brand": "Stout-Reynolds",
+    "unit_cost": 106.1,
+    "unit_price": 204.57,
+    "updated_at": "2026-07-15T15:35:11.472624+00:00"
+  },
+  {
+    "product_id": "PR-00115",
+    "product_name": "Proactive non-volatile moratorium",
+    "category": "Technology",
+    "subcategory": "Accessories",
+    "brand": "Hernandez, Coleman and White",
+    "unit_cost": 45.34,
+    "unit_price": 97.96,
+    "updated_at": "2026-07-15T15:35:11.472719+00:00"
+  },
+  {
+    "product_id": "PR-00116",
+    "product_name": "Open-architected systematic encryption",
+    "category": "Office Supplies",
+    "subcategory": "Binders",
+    "brand": "Jacobson, Marshall and Barron",
+    "unit_cost": 341.69,
+    "unit_price": 655.24,
+    "updated_at": "2026-07-15T15:35:11.472814+00:00"
+  },
+  {
+    "product_id": "PR-00117",
+    "product_name": "Re-contextualized mobile function",
+    "category": "Technology",
+    "subcategory": "Copiers",
+    "brand": "Sosa, Fox and Martin",
+    "unit_cost": 71.3,
+    "unit_price": 150.43,
+    "updated_at": "2026-07-15T15:35:11.472910+00:00"
+  },
+  {
+    "product_id": "PR-00118",
+    "product_name": "Customizable cohesive neural-net",
+    "category": "Furniture",
+    "subcategory": "Tables",
+    "brand": "Foster LLC",
+    "unit_cost": 345.21,
+    "unit_price": 667.68,
+    "updated_at": "2026-07-15T15:35:11.472947+00:00"
+  },
+  {
+    "product_id": "PR-00119",
+    "product_name": "Ergonomic composite budgetary management",
+    "category": "Office Supplies",
+    "subcategory": "Storage",
+    "brand": "Gentry Inc",
+    "unit_cost": 51.28,
+    "unit_price": 87.1,
+    "updated_at": "2026-07-15T15:35:11.472983+00:00"
+  },
+  {
+    "product_id": "PR-00120",
+    "product_name": "Profit-focused analyzing moratorium",
+    "category": "Technology",
+    "subcategory": "Accessories",
+    "brand": "Costa, Kelley and Jackson",
+    "unit_cost": 364.05,
+    "unit_price": 805.49,
+    "updated_at": "2026-07-15T15:35:11.473077+00:00"
+  },
+  {
+    "product_id": "PR-00121",
+    "product_name": "Reduced background database",
+    "category": "Technology",
+    "subcategory": "Copiers",
+    "brand": "Brooks-Ayala",
+    "unit_cost": 204.1,
+    "unit_price": 296.04,
+    "updated_at": "2026-07-15T15:35:11.473143+00:00"
+  },
+  {
+    "product_id": "PR-00122",
+    "product_name": "Progressive 4thgeneration help-desk",
+    "category": "Furniture",
+    "subcategory": "Bookcases",
+    "brand": "Anderson Group",
+    "unit_cost": 54.78,
+    "unit_price": 71.51,
+    "updated_at": "2026-07-15T15:35:11.473180+00:00"
+  },
+  {
+    "product_id": "PR-00123",
+    "product_name": "Synergistic 5thgeneration methodology",
+    "category": "Technology",
+    "subcategory": "Accessories",
+    "brand": "Hart, Smith and Montgomery",
+    "unit_cost": 277.79,
+    "unit_price": 398.09,
+    "updated_at": "2026-07-15T15:35:11.473275+00:00"
+  },
+  {
+    "product_id": "PR-00124",
+    "product_name": "Face-to-face multi-state moratorium",
+    "category": "Furniture",
+    "subcategory": "Bookcases",
+    "brand": "Bradshaw-Graves",
+    "unit_cost": 72.42,
+    "unit_price": 148.68,
+    "updated_at": "2026-07-15T15:35:11.473340+00:00"
+  },
+  {
+    "product_id": "PR-00125",
+    "product_name": "Monitored bifurcated forecast",
+    "category": "Furniture",
+    "subcategory": "Chairs",
+    "brand": "Carter, Fletcher and Vega",
+    "unit_cost": 132.89,
+    "unit_price": 159.47,
+    "updated_at": "2026-07-15T15:35:11.473433+00:00"
+  },
+  {
+    "product_id": "PR-00126",
+    "product_name": "Compatible web-enabled instruction set",
+    "category": "Office Supplies",
+    "subcategory": "Binders",
+    "brand": "Jimenez, Harding and Hernandez",
+    "unit_cost": 369.23,
+    "unit_price": 711.41,
+    "updated_at": "2026-07-15T15:35:11.473527+00:00"
+  },
+  {
+    "product_id": "PR-00127",
+    "product_name": "Secured transitional firmware",
+    "category": "Furniture",
+    "subcategory": "Chairs",
+    "brand": "Bradley Ltd",
+    "unit_cost": 47.08,
+    "unit_price": 93.56,
+    "updated_at": "2026-07-15T15:35:11.473562+00:00"
+  },
+  {
+    "product_id": "PR-00128",
+    "product_name": "Fundamental cohesive implementation",
+    "category": "Office Supplies",
+    "subcategory": "Binders",
+    "brand": "Rodriguez-Roberts",
+    "unit_cost": 281.01,
+    "unit_price": 550.41,
+    "updated_at": "2026-07-15T15:35:11.473626+00:00"
+  },
+  {
+    "product_id": "PR-00129",
+    "product_name": "Multi-channeled heuristic groupware",
+    "category": "Furniture",
+    "subcategory": "Bookcases",
+    "brand": "Boyd, Sims and Hernandez",
+    "unit_cost": 381.61,
+    "unit_price": 756.01,
+    "updated_at": "2026-07-15T15:35:11.473719+00:00"
+  },
+  {
+    "product_id": "PR-00130",
+    "product_name": "Compatible system-worthy matrix",
+    "category": "Technology",
+    "subcategory": "Phones",
+    "brand": "Johnson-Long",
+    "unit_cost": 224.65,
+    "unit_price": 322.4,
+    "updated_at": "2026-07-15T15:35:11.473783+00:00"
+  },
+  {
+    "product_id": "PR-00131",
+    "product_name": "Public-key value-added initiative",
+    "category": "Furniture",
+    "subcategory": "Chairs",
+    "brand": "Ellis PLC",
+    "unit_cost": 153.22,
+    "unit_price": 237.44,
+    "updated_at": "2026-07-15T15:35:11.473819+00:00"
+  },
+  {
+    "product_id": "PR-00132",
+    "product_name": "De-engineered asymmetric leverage",
+    "category": "Technology",
+    "subcategory": "Accessories",
+    "brand": "Jimenez-King",
+    "unit_cost": 133.93,
+    "unit_price": 247.74,
+    "updated_at": "2026-07-15T15:35:11.473882+00:00"
+  },
+  {
+    "product_id": "PR-00133",
+    "product_name": "Persevering local solution",
+    "category": "Furniture",
+    "subcategory": "Bookcases",
+    "brand": "Leonard-Jefferson",
+    "unit_cost": 175.18,
+    "unit_price": 263.16,
+    "updated_at": "2026-07-15T15:35:11.473942+00:00"
+  },
+  {
+    "product_id": "PR-00134",
+    "product_name": "Quality-focused content-based strategy",
+    "category": "Technology",
+    "subcategory": "Phones",
+    "brand": "Williams-Joyce",
+    "unit_cost": 260.81,
+    "unit_price": 348.04,
+    "updated_at": "2026-07-15T15:35:11.474006+00:00"
+  },
+  {
+    "product_id": "PR-00135",
+    "product_name": "Visionary systematic focus group",
+    "category": "Technology",
+    "subcategory": "Copiers",
+    "brand": "Moore-Burch",
+    "unit_cost": 292.23,
+    "unit_price": 476.99,
+    "updated_at": "2026-07-15T15:35:11.474070+00:00"
+  },
+  {
+    "product_id": "PR-00136",
+    "product_name": "Exclusive dynamic instruction set",
+    "category": "Technology",
+    "subcategory": "Phones",
+    "brand": "Nelson LLC",
+    "unit_cost": 376.25,
+    "unit_price": 868.42,
+    "updated_at": "2026-07-15T15:35:11.474105+00:00"
+  },
+  {
+    "product_id": "PR-00137",
+    "product_name": "Advanced client-server toolset",
+    "category": "Office Supplies",
+    "subcategory": "Paper",
+    "brand": "Ingram, Fowler and Gilmore",
+    "unit_cost": 351.99,
+    "unit_price": 864.2,
+    "updated_at": "2026-07-15T15:35:11.474198+00:00"
+  },
+  {
+    "product_id": "PR-00138",
+    "product_name": "Polarized intangible customer loyalty",
+    "category": "Furniture",
+    "subcategory": "Chairs",
+    "brand": "Washington, Moore and Hurst",
+    "unit_cost": 397.21,
+    "unit_price": 842.89,
+    "updated_at": "2026-07-15T15:35:11.474292+00:00"
+  },
+  {
+    "product_id": "PR-00139",
+    "product_name": "Re-contextualized bandwidth-monitored task-force",
+    "category": "Furniture",
+    "subcategory": "Tables",
+    "brand": "Wallace Group",
+    "unit_cost": 45.87,
+    "unit_price": 100.99,
+    "updated_at": "2026-07-15T15:35:11.474331+00:00"
+  },
+  {
+    "product_id": "PR-00140",
+    "product_name": "Right-sized human-resource infrastructure",
+    "category": "Office Supplies",
+    "subcategory": "Binders",
+    "brand": "Perkins, Harris and Bauer",
+    "unit_cost": 248.45,
+    "unit_price": 571.5,
+    "updated_at": "2026-07-15T15:35:11.474425+00:00"
+  },
+  {
+    "product_id": "PR-00141",
+    "product_name": "Grass-roots heuristic interface",
+    "category": "Furniture",
+    "subcategory": "Bookcases",
+    "brand": "Hudson, Rubio and Jacobs",
+    "unit_cost": 6.48,
+    "unit_price": 11.64,
+    "updated_at": "2026-07-15T15:35:11.474520+00:00"
+  },
+  {
+    "product_id": "PR-00142",
+    "product_name": "Open-architected systemic strategy",
+    "category": "Technology",
+    "subcategory": "Phones",
+    "brand": "Petty, Webb and Evans",
+    "unit_cost": 301.1,
+    "unit_price": 741.85,
+    "updated_at": "2026-07-15T15:35:11.474614+00:00"
+  },
+  {
+    "product_id": "PR-00143",
+    "product_name": "Profit-focused leadingedge Local Area Network",
+    "category": "Furniture",
+    "subcategory": "Chairs",
+    "brand": "Conley Inc",
+    "unit_cost": 279.93,
+    "unit_price": 590.23,
+    "updated_at": "2026-07-15T15:35:11.474650+00:00"
+  },
+  {
+    "product_id": "PR-00144",
+    "product_name": "Virtual systemic superstructure",
+    "category": "Furniture",
+    "subcategory": "Chairs",
+    "brand": "Frank, Jones and Johnston",
+    "unit_cost": 399.39,
+    "unit_price": 609.17,
+    "updated_at": "2026-07-15T15:35:11.474744+00:00"
+  },
+  {
+    "product_id": "PR-00145",
+    "product_name": "Cloned foreground interface",
+    "category": "Furniture",
+    "subcategory": "Bookcases",
+    "brand": "Sexton-Murray",
+    "unit_cost": 291.58,
+    "unit_price": 684.33,
+    "updated_at": "2026-07-15T15:35:11.474809+00:00"
+  },
+  {
+    "product_id": "PR-00146",
+    "product_name": "Function-based fault-tolerant firmware",
+    "category": "Technology",
+    "subcategory": "Copiers",
+    "brand": "Wright, Gibson and Garcia",
+    "unit_cost": 173.04,
+    "unit_price": 213.27,
+    "updated_at": "2026-07-15T15:35:11.474903+00:00"
+  },
+  {
+    "product_id": "PR-00147",
+    "product_name": "Vision-oriented national complexity",
+    "category": "Furniture",
+    "subcategory": "Chairs",
+    "brand": "Hines, Avery and Lloyd",
+    "unit_cost": 209.59,
+    "unit_price": 489.37,
+    "updated_at": "2026-07-15T15:35:11.475003+00:00"
+  },
+  {
+    "product_id": "PR-00148",
+    "product_name": "Ergonomic systemic intranet",
+    "category": "Technology",
+    "subcategory": "Copiers",
+    "brand": "Harper-Johnson",
+    "unit_cost": 171.12,
+    "unit_price": 254.66,
+    "updated_at": "2026-07-15T15:35:11.475074+00:00"
+  },
+  {
+    "product_id": "PR-00149",
+    "product_name": "Multi-lateral maximized system engine",
+    "category": "Office Supplies",
+    "subcategory": "Storage",
+    "brand": "Hernandez-Powell",
+    "unit_cost": 336.78,
+    "unit_price": 832.08,
+    "updated_at": "2026-07-15T15:35:11.475138+00:00"
+  },
+  {
+    "product_id": "PR-00150",
+    "product_name": "Fully-configurable holistic projection",
+    "category": "Office Supplies",
+    "subcategory": "Storage",
+    "brand": "Stein LLC",
+    "unit_cost": 31.06,
+    "unit_price": 44.06,
+    "updated_at": "2026-07-15T15:35:11.475175+00:00"
+  },
+  {
+    "product_id": "PR-00151",
+    "product_name": "Ergonomic high-level forecast",
+    "category": "Furniture",
+    "subcategory": "Chairs",
+    "brand": "Guerrero-Evans",
+    "unit_cost": 232.31,
+    "unit_price": 481.05,
+    "updated_at": "2026-07-15T15:35:11.475239+00:00"
+  },
+  {
+    "product_id": "PR-00152",
+    "product_name": "Diverse fault-tolerant analyzer",
+    "category": "Technology",
+    "subcategory": "Copiers",
+    "brand": "Flores-Henson",
+    "unit_cost": 45.35,
+    "unit_price": 89.11,
+    "updated_at": "2026-07-15T15:35:11.475310+00:00"
+  },
+  {
+    "product_id": "PR-00153",
+    "product_name": "Enhanced incremental info-mediaries",
+    "category": "Technology",
+    "subcategory": "Phones",
+    "brand": "Ramirez Inc",
+    "unit_cost": 22.26,
+    "unit_price": 42.83,
+    "updated_at": "2026-07-15T15:35:11.475350+00:00"
+  },
+  {
+    "product_id": "PR-00154",
+    "product_name": "Multi-lateral 4thgeneration flexibility",
+    "category": "Technology",
+    "subcategory": "Accessories",
+    "brand": "Hancock, Johnston and Sullivan",
+    "unit_cost": 278.56,
+    "unit_price": 559.86,
+    "updated_at": "2026-07-15T15:35:11.475451+00:00"
+  },
+  {
+    "product_id": "PR-00155",
+    "product_name": "Grass-roots foreground focus group",
+    "category": "Technology",
+    "subcategory": "Phones",
+    "brand": "Curtis, Gonzalez and Hudson",
+    "unit_cost": 370.72,
+    "unit_price": 894.7,
+    "updated_at": "2026-07-15T15:35:11.475555+00:00"
+  },
+  {
+    "product_id": "PR-00156",
+    "product_name": "Switchable holistic throughput",
+    "category": "Furniture",
+    "subcategory": "Chairs",
+    "brand": "Crane, Ellis and Pierce",
+    "unit_cost": 225.84,
+    "unit_price": 379.71,
+    "updated_at": "2026-07-15T15:35:11.475660+00:00"
+  },
+  {
+    "product_id": "PR-00157",
+    "product_name": "Sharable responsive secured line",
+    "category": "Furniture",
+    "subcategory": "Chairs",
+    "brand": "Montoya-Murphy",
+    "unit_cost": 181.32,
+    "unit_price": 382.27,
+    "updated_at": "2026-07-15T15:35:11.475744+00:00"
+  },
+  {
+    "product_id": "PR-00158",
+    "product_name": "Re-contextualized interactive info-mediaries",
+    "category": "Furniture",
+    "subcategory": "Tables",
+    "brand": "Coleman and Sons",
+    "unit_cost": 306.67,
+    "unit_price": 419.98,
+    "updated_at": "2026-07-15T15:35:11.475793+00:00"
+  },
+  {
+    "product_id": "PR-00159",
+    "product_name": "Programmable client-driven adapter",
+    "category": "Technology",
+    "subcategory": "Accessories",
+    "brand": "Woods-Garcia",
+    "unit_cost": 151.85,
+    "unit_price": 261.27,
+    "updated_at": "2026-07-15T15:35:11.475859+00:00"
+  },
+  {
+    "product_id": "PR-00160",
+    "product_name": "Cross-platform real-time circuit",
+    "category": "Furniture",
+    "subcategory": "Bookcases",
+    "brand": "Velazquez, Green and Lambert",
+    "unit_cost": 376.41,
+    "unit_price": 852.53,
+    "updated_at": "2026-07-15T15:35:11.475947+00:00"
+  },
+  {
+    "product_id": "PR-00161",
+    "product_name": "Phased multi-state support",
+    "category": "Technology",
+    "subcategory": "Accessories",
+    "brand": "Navarro Ltd",
+    "unit_cost": 211.14,
+    "unit_price": 283.39,
+    "updated_at": "2026-07-15T15:35:11.475981+00:00"
+  },
+  {
+    "product_id": "PR-00162",
+    "product_name": "Persevering cohesive pricing structure",
+    "category": "Furniture",
+    "subcategory": "Bookcases",
+    "brand": "Adkins-Sanders",
+    "unit_cost": 230.45,
+    "unit_price": 488.4,
+    "updated_at": "2026-07-15T15:35:11.476045+00:00"
+  },
+  {
+    "product_id": "PR-00163",
+    "product_name": "Public-key responsive implementation",
+    "category": "Furniture",
+    "subcategory": "Tables",
+    "brand": "Jacobs, Moore and Castillo",
+    "unit_cost": 171.35,
+    "unit_price": 406.8,
+    "updated_at": "2026-07-15T15:35:11.476137+00:00"
+  },
+  {
+    "product_id": "PR-00164",
+    "product_name": "Cloned zero administration implementation",
+    "category": "Office Supplies",
+    "subcategory": "Paper",
+    "brand": "Chen Group",
+    "unit_cost": 197.24,
+    "unit_price": 377.59,
+    "updated_at": "2026-07-15T15:35:11.476174+00:00"
+  },
+  {
+    "product_id": "PR-00165",
+    "product_name": "Synergistic fresh-thinking Internet solution",
+    "category": "Furniture",
+    "subcategory": "Chairs",
+    "brand": "Wagner and Sons",
+    "unit_cost": 315.18,
+    "unit_price": 406.29,
+    "updated_at": "2026-07-15T15:35:11.476210+00:00"
+  },
+  {
+    "product_id": "PR-00166",
+    "product_name": "Organized homogeneous interface",
+    "category": "Furniture",
+    "subcategory": "Bookcases",
+    "brand": "Underwood Inc",
+    "unit_cost": 279.07,
+    "unit_price": 674.04,
+    "updated_at": "2026-07-15T15:35:11.476245+00:00"
+  },
+  {
+    "product_id": "PR-00167",
+    "product_name": "Future-proofed systematic middleware",
+    "category": "Furniture",
+    "subcategory": "Tables",
+    "brand": "Strong, Hobbs and Macias",
+    "unit_cost": 254.55,
+    "unit_price": 350.21,
+    "updated_at": "2026-07-15T15:35:11.476338+00:00"
+  },
+  {
+    "product_id": "PR-00168",
+    "product_name": "Networked zero tolerance adapter",
+    "category": "Furniture",
+    "subcategory": "Chairs",
+    "brand": "Cohen Inc",
+    "unit_cost": 331.35,
+    "unit_price": 683.06,
+    "updated_at": "2026-07-15T15:35:11.476375+00:00"
+  },
+  {
+    "product_id": "PR-00169",
+    "product_name": "Future-proofed transitional service-desk",
+    "category": "Office Supplies",
+    "subcategory": "Binders",
+    "brand": "Todd, Gibson and Moore",
+    "unit_cost": 323.13,
+    "unit_price": 757.85,
+    "updated_at": "2026-07-15T15:35:11.476478+00:00"
+  },
+  {
+    "product_id": "PR-00170",
+    "product_name": "Multi-channeled systematic collaboration",
+    "category": "Technology",
+    "subcategory": "Accessories",
+    "brand": "Johnson-Payne",
+    "unit_cost": 283.22,
+    "unit_price": 386.67,
+    "updated_at": "2026-07-15T15:35:11.476544+00:00"
+  },
+  {
+    "product_id": "PR-00171",
+    "product_name": "Distributed attitude-oriented moderator",
+    "category": "Furniture",
+    "subcategory": "Chairs",
+    "brand": "Nunez Ltd",
+    "unit_cost": 163.9,
+    "unit_price": 395.53,
+    "updated_at": "2026-07-15T15:35:11.476580+00:00"
+  },
+  {
+    "product_id": "PR-00172",
+    "product_name": "Robust 24hour software",
+    "category": "Technology",
+    "subcategory": "Phones",
+    "brand": "Hines-Perry",
+    "unit_cost": 76.61,
+    "unit_price": 181.85,
+    "updated_at": "2026-07-15T15:35:11.476649+00:00"
+  },
+  {
+    "product_id": "PR-00173",
+    "product_name": "Intuitive non-volatile model",
+    "category": "Furniture",
+    "subcategory": "Tables",
+    "brand": "Franco LLC",
+    "unit_cost": 316.91,
+    "unit_price": 729.33,
+    "updated_at": "2026-07-15T15:35:11.476687+00:00"
+  },
+  {
+    "product_id": "PR-00174",
+    "product_name": "Function-based non-volatile core",
+    "category": "Office Supplies",
+    "subcategory": "Paper",
+    "brand": "Newton-Anderson",
+    "unit_cost": 217.94,
+    "unit_price": 392.31,
+    "updated_at": "2026-07-15T15:35:11.476751+00:00"
+  },
+  {
+    "product_id": "PR-00175",
+    "product_name": "Seamless content-based support",
+    "category": "Office Supplies",
+    "subcategory": "Binders",
+    "brand": "Lowe-Rogers",
+    "unit_cost": 121.11,
+    "unit_price": 160.15,
+    "updated_at": "2026-07-15T15:35:11.476815+00:00"
+  },
+  {
+    "product_id": "PR-00176",
+    "product_name": "Horizontal multi-tasking array",
+    "category": "Technology",
+    "subcategory": "Phones",
+    "brand": "Garrison-Greene",
+    "unit_cost": 197.8,
+    "unit_price": 304.03,
+    "updated_at": "2026-07-15T15:35:11.476879+00:00"
+  },
+  {
+    "product_id": "PR-00177",
+    "product_name": "Proactive leadingedge implementation",
+    "category": "Furniture",
+    "subcategory": "Bookcases",
+    "brand": "Ramirez, Hayes and Warren",
+    "unit_cost": 89.32,
+    "unit_price": 157.13,
+    "updated_at": "2026-07-15T15:35:11.476974+00:00"
+  },
+  {
+    "product_id": "PR-00178",
+    "product_name": "Future-proofed empowering instruction set",
+    "category": "Furniture",
+    "subcategory": "Bookcases",
+    "brand": "Fleming-Johnson",
+    "unit_cost": 58.53,
+    "unit_price": 131.24,
+    "updated_at": "2026-07-15T15:35:11.477038+00:00"
+  },
+  {
+    "product_id": "PR-00179",
+    "product_name": "Enhanced optimal help-desk",
+    "category": "Technology",
+    "subcategory": "Accessories",
+    "brand": "Rogers, Hoffman and Garcia",
+    "unit_cost": 378.64,
+    "unit_price": 796.14,
+    "updated_at": "2026-07-15T15:35:11.477131+00:00"
+  },
+  {
+    "product_id": "PR-00180",
+    "product_name": "De-engineered zero administration superstructure",
+    "category": "Technology",
+    "subcategory": "Accessories",
+    "brand": "Baker, Olsen and Stewart",
+    "unit_cost": 385.92,
+    "unit_price": 680.33,
+    "updated_at": "2026-07-15T15:35:11.477225+00:00"
+  },
+  {
+    "product_id": "PR-00181",
+    "product_name": "Decentralized tertiary time-frame",
+    "category": "Technology",
+    "subcategory": "Accessories",
+    "brand": "Pugh-Webb",
+    "unit_cost": 120.94,
+    "unit_price": 199.33,
+    "updated_at": "2026-07-15T15:35:11.477289+00:00"
+  },
+  {
+    "product_id": "PR-00182",
+    "product_name": "Visionary scalable matrix",
+    "category": "Office Supplies",
+    "subcategory": "Binders",
+    "brand": "Patel, Burch and Holland",
+    "unit_cost": 104.51,
+    "unit_price": 187.43,
+    "updated_at": "2026-07-15T15:35:11.477382+00:00"
+  },
+  {
+    "product_id": "PR-00183",
+    "product_name": "Configurable radical concept",
+    "category": "Office Supplies",
+    "subcategory": "Storage",
+    "brand": "Hernandez Group",
+    "unit_cost": 190.45,
+    "unit_price": 312.12,
+    "updated_at": "2026-07-15T15:35:11.477418+00:00"
+  },
+  {
+    "product_id": "PR-00184",
+    "product_name": "Automated 4thgeneration time-frame",
+    "category": "Technology",
+    "subcategory": "Phones",
+    "brand": "Obrien Inc",
+    "unit_cost": 271.08,
+    "unit_price": 553.04,
+    "updated_at": "2026-07-15T15:35:11.477454+00:00"
+  },
+  {
+    "product_id": "PR-00185",
+    "product_name": "Up-sized static encryption",
+    "category": "Technology",
+    "subcategory": "Copiers",
+    "brand": "Baker-Lindsey",
+    "unit_cost": 194.65,
+    "unit_price": 456.03,
+    "updated_at": "2026-07-15T15:35:11.477517+00:00"
+  },
+  {
+    "product_id": "PR-00186",
+    "product_name": "Streamlined attitude-oriented software",
+    "category": "Furniture",
+    "subcategory": "Bookcases",
+    "brand": "Ray, Hopkins and James",
+    "unit_cost": 310.09,
+    "unit_price": 535.54,
+    "updated_at": "2026-07-15T15:35:11.477613+00:00"
+  },
+  {
+    "product_id": "PR-00187",
+    "product_name": "Re-contextualized next generation parallelism",
+    "category": "Office Supplies",
+    "subcategory": "Paper",
+    "brand": "Jackson-Stewart",
+    "unit_cost": 270.21,
+    "unit_price": 427.39,
+    "updated_at": "2026-07-15T15:35:11.477680+00:00"
+  },
+  {
+    "product_id": "PR-00188",
+    "product_name": "Grass-roots homogeneous superstructure",
+    "category": "Furniture",
+    "subcategory": "Chairs",
+    "brand": "Davis LLC",
+    "unit_cost": 63.6,
+    "unit_price": 114.96,
+    "updated_at": "2026-07-15T15:35:11.477720+00:00"
+  },
+  {
+    "product_id": "PR-00189",
+    "product_name": "Innovative real-time circuit",
+    "category": "Office Supplies",
+    "subcategory": "Binders",
+    "brand": "Farrell-Bailey",
+    "unit_cost": 349.26,
+    "unit_price": 683.33,
+    "updated_at": "2026-07-15T15:35:11.477792+00:00"
+  },
+  {
+    "product_id": "PR-00190",
+    "product_name": "Function-based national archive",
+    "category": "Technology",
+    "subcategory": "Accessories",
+    "brand": "Stein, Reeves and Proctor",
+    "unit_cost": 102.37,
+    "unit_price": 154.98,
+    "updated_at": "2026-07-15T15:35:11.477886+00:00"
+  },
+  {
+    "product_id": "PR-00191",
+    "product_name": "Proactive non-volatile system engine",
+    "category": "Office Supplies",
+    "subcategory": "Binders",
+    "brand": "Williams-Peterson",
+    "unit_cost": 117.87,
+    "unit_price": 171.46,
+    "updated_at": "2026-07-15T15:35:11.477950+00:00"
+  },
+  {
+    "product_id": "PR-00192",
+    "product_name": "Front-line dedicated open system",
+    "category": "Furniture",
+    "subcategory": "Chairs",
+    "brand": "Huang-Nichols",
+    "unit_cost": 271.42,
+    "unit_price": 478.14,
+    "updated_at": "2026-07-15T15:35:11.478022+00:00"
+  },
+  {
+    "product_id": "PR-00193",
+    "product_name": "Balanced tertiary alliance",
+    "category": "Office Supplies",
+    "subcategory": "Binders",
+    "brand": "Newton, Mendoza and Fields",
+    "unit_cost": 287.86,
+    "unit_price": 372.09,
+    "updated_at": "2026-07-15T15:35:11.478131+00:00"
+  },
+  {
+    "product_id": "PR-00194",
+    "product_name": "Compatible maximized encoding",
+    "category": "Technology",
+    "subcategory": "Phones",
+    "brand": "Phillips, Coleman and Anderson",
+    "unit_cost": 259.19,
+    "unit_price": 399.62,
+    "updated_at": "2026-07-15T15:35:11.478237+00:00"
+  },
+  {
+    "product_id": "PR-00195",
+    "product_name": "Robust value-added contingency",
+    "category": "Furniture",
+    "subcategory": "Tables",
+    "brand": "Adams Inc",
+    "unit_cost": 280.49,
+    "unit_price": 647.09,
+    "updated_at": "2026-07-15T15:35:11.478272+00:00"
+  },
+  {
+    "product_id": "PR-00196",
+    "product_name": "Robust intermediate software",
+    "category": "Technology",
+    "subcategory": "Phones",
+    "brand": "Galloway-Davila",
+    "unit_cost": 187.38,
+    "unit_price": 441.69,
+    "updated_at": "2026-07-15T15:35:11.478336+00:00"
+  },
+  {
+    "product_id": "PR-00197",
+    "product_name": "Re-engineered static project",
+    "category": "Office Supplies",
+    "subcategory": "Binders",
+    "brand": "Foster LLC",
+    "unit_cost": 259.2,
+    "unit_price": 537.01,
+    "updated_at": "2026-07-15T15:35:11.478372+00:00"
+  },
+  {
+    "product_id": "PR-00198",
+    "product_name": "Object-based tertiary database",
+    "category": "Technology",
+    "subcategory": "Accessories",
+    "brand": "Lee Inc",
+    "unit_cost": 8.26,
+    "unit_price": 13.11,
+    "updated_at": "2026-07-15T15:35:11.478407+00:00"
+  },
+  {
+    "product_id": "PR-00199",
+    "product_name": "Optimized dedicated project",
+    "category": "Office Supplies",
+    "subcategory": "Binders",
+    "brand": "Ruiz Group",
+    "unit_cost": 362.93,
+    "unit_price": 841.96,
+    "updated_at": "2026-07-15T15:35:11.478438+00:00"
+  },
+  {
+    "product_id": "PR-00200",
+    "product_name": "Function-based intermediate architecture",
+    "category": "Furniture",
+    "subcategory": "Bookcases",
+    "brand": "Hall, Ellison and Hoffman",
+    "unit_cost": 9.62,
+    "unit_price": 19.68,
+    "updated_at": "2026-07-15T15:35:11.478530+00:00"
+  }
+]
