@@ -2,5 +2,3 @@ output/
 __pycache__
 .DS_Store
 _state/
-.DS_Store
-_state/
